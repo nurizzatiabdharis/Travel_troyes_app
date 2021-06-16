@@ -1,3 +1,6 @@
 # Travel_troyes_app
-Project travel mobile app (on working...)
+UTT Re21 Projet : 
+Conception d’une Application Mobile
+Application Touristes et Guide Touristique
+
 Stack : Ionic Angular, Firebase
